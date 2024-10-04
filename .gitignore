@@ -6,6 +6,7 @@ next/cache/
 .out/
 .next/
 public/static/
+out/
 
 # Development files
 .next/cache/*.pack
