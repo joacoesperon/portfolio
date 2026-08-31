@@ -102,6 +102,14 @@ export const projects = [
         iconLists: [],
         link: "https://github.com/joacoesperon/minijava-compiler",
     },
+    {
+        id: 5,
+        title: "JessTradingBots",
+        des: "Automated trading algorithms with a self-built brand and content pipeline — weekly Instagram carousels and reels, plus a Whop storefront.",
+        img: "/p5.svg",
+        iconLists: ["/insta.svg"],
+        link: "https://instagram.com/jesstradingbots",
+    },
 ];
 
 export const testimonials = [
@@ -116,38 +124,31 @@ export const testimonials = [
 export const workExperience = [
     {
         id: 1,
-        title: "Control Engineering Technician — SAMPOL SA",
-        desc: "Developing and maintaining SCADA systems for industrial control engineering projects. Feb 2026 – Present.",
+        title: "Control Engineer — SAMPOL",
+        desc: "Designing and developing SCADA systems for real-time facility monitoring and control across industrial, infrastructure, and hospitality projects. Jan 2026 – Present.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
         title: "Sales Associate — Müller",
-        desc: "Customer service, inventory management, and point-of-sale operations. Aug 2024 – Present.",
+        desc: "Customer service, point-of-sale operations, and product merchandising. Aug 2024 – Aug 2025.",
         className: "md:col-span-2",
         thumbnail: "/exp2.svg",
     },
     {
         id: 3,
-        title: "Community Developer — SupTrading",
-        desc: "Built and maintained an online education platform (suptrading.net) for blockchain and finance, and grew its community through social media and digital marketing. May 2022 – Aug 2024.",
-        className: "md:col-span-2",
-        thumbnail: "/exp3.svg",
-    },
-    {
-        id: 4,
-        title: "Café Manager — Kena Bowls",
-        desc: "Oversaw stock control, customer service, and budgeting for a café. Jul 2022 – Oct 2023.",
+        title: "Co-founder — Kena Bowls",
+        desc: "Ran a smoothie and bowl business seven days a week (300 EUR/day revenue), handling branding, social media, and supplier coordination. Jul 2022 – Nov 2023.",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
     },
     {
-        id: 5,
+        id: 4,
         title: "Administrative Employee — Abertech Ibérica S.L.",
         desc: "Built and maintained the company website and coordinated supplier relations and social media. Jul 2020 – May 2022.",
         className: "md:col-span-2",
-        thumbnail: "/exp1.svg",
+        thumbnail: "/exp3.svg",
     },
 ];
 
